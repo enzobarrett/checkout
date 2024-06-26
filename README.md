@@ -116,6 +116,10 @@ Please refer to the [release page](https://github.com/actions/checkout/releases/
     # Default: false
     submodules: ''
 
+    # Specify how many submodules to clone in parallel
+    # Default: 1
+    submodule-jobs: ''
+
     # Add repository path as safe.directory for Git global config by running `git
     # config --global --add safe.directory <path>`
     # Default: true
