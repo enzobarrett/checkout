@@ -116,7 +116,7 @@ Please refer to the [release page](https://github.com/actions/checkout/releases/
     # Default: false
     submodules: ''
 
-    # Specify numbers of jobs to use when cloning submodules
+    # Specifies number of jobs to use when cloning submodules
     # Default: 1
     submodule-jobs: ''
 
